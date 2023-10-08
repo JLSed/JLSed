@@ -14,10 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>
   ![](https://github-readme-stats.vercel.app/api?username=JLSed&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false)<br/>
   ![](https://github-readme-streak-stats.herokuapp.com/?user=JLSed&theme=synthwave&hide_border=true)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JLSed&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-</center>
 
 
