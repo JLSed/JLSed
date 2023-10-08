@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JLSed)](https://github.com/JLSed/github-readme-stats)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JLSed&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=JLSed&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JLSed&theme=synthwave&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JLSed&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
