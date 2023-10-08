@@ -4,7 +4,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JLSed&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JLSed&theme=synthwave&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JLSed&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JLSed)](https://github.com/JLSed/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JLSed&theme=radical&no-frame=true&no-bg=false&margin-w=4)
