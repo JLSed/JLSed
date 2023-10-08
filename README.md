@@ -1,12 +1,14 @@
 # 💫 About Me:
 🌱 Currently learning Java.
+:shipit:
+> Programming gave me the ability to create.
 
-Programming gave me the ability to create.
-
-An aspiring:<br>
-  Web Developer,<br>
-  Software Engineer,<br>
-  Game Developer.
+An aspiring:
+ ```diff
+ ! Web Developer,
+ + Software Engineer,
+ - Game Developer.
+```
 
 
 # 💻 Tech Stack:
