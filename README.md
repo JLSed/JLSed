@@ -3,9 +3,9 @@
 
 Programming gave me the ability to create.
 
-An aspiring:
-  Web Developer,
-  Software Engineer,
+An aspiring:<br>
+  Web Developer,<br>
+  Software Engineer,<br>
   Game Developer.
 
 
