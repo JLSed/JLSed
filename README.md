@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JLSed)](https://github.com/JLSed/github-readme-stats)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JLSed&theme=synthwave&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
