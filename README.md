@@ -5,9 +5,9 @@
 
 An aspiring:
  ```diff
- ! Web Developer,
  + Software Engineer,
  - Game Developer.
+ ! Web Developer,
 ```
 
 
