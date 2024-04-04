@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 Currently learning Java.
 :shipit:
-> Programming gave me the ability to create.
+> .
 
 An aspiring:
  ```diff
